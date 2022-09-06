@@ -1,7 +1,6 @@
 import React from "react";
 
-import { styled } from "@mui/material/styles";
-import { Grid, Paper } from "@mui/material";
+import { Grid } from "@mui/material";
 import TaskList from "./TaskList";
 
 const TaskGrid = () => {
